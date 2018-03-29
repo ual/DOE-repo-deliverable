@@ -1,4 +1,4 @@
-Fall 2017 Work
+2017-2018 Work Progress and Planning
 =======
 ## Merging Long-term Choice Models from ActivitySim
 ### Notes:
